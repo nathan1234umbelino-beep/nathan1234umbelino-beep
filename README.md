@@ -1,6 +1,5 @@
 ![Cabeçalho preto e vermelho com padrões binários e o nome Nathan Umbelino do Carmo](assets/banner.svg)
 
-# Nathan Umbelino do Carmo
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha trajetória na tecnologia. Meu interesse começou no primeiro emprego, quando eu usava bastante o Pacote Office e passei a perceber como as ferramentas digitais ajudam a resolver tarefas do dia a dia. A partir daí, quis entender melhor como os programas são feitos e comecei a estudar desenvolvimento de software.
 
